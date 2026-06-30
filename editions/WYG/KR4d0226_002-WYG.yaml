@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0226/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庵
+  hash: sha256:27a56fcce744ad55308fd0904b9c32aee5a674b8f1976eb3154aa4859d69bc0c
+metadata:
+  title: 晦菴先生朱文公文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 10:14:02.043035'
+  source:
+    repository: kanripo
+    path: KR4d0226/KR4d0226_002.txt
+hash: sha256:5aaa279f156557eebec7aa7c5e3daf478cd3a3a3d0720202d228055e23df9c8e
