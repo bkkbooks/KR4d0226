@@ -12,6 +12,7 @@ markers:
       ', id: KR4d0226_krp_042-bkkkrnewl2}
   - {type: line-break, offset: 14, content: '', id: KR4d0226_SBCK_042-1a02}
   - {type: punctuation, offset: 15, content: (, id: KR4d0226_krp_042-bkkpn1}
+  - {type: 'voice:problem', offset: 15, length: 0, id: KR4d0226_bkk_042-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 15}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4d0226_krp_042-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -19,6 +20,7 @@ markers:
       ', id: KR4d0226_krp_042-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0226_SBCK_042-1a03}
   - {type: indent, offset: 0, content: 　　　, id: KR4d0226_krp_042-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0226_bkk_042-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 4, content: '
 
       ', id: KR4d0226_krp_042-bkkkrnewl2}
@@ -6233,4 +6235,4 @@ markers:
   - {type: variant, offset: 18322, length: 0, content: '', WYG: 欽定四庫全書巻晦菴集巻四十三宋朱子撰}
   - {type: page-break, offset: 18322, content: '', id: KR4d0226_WYG_043-1a, image: WYG1144/WYG1144-0243a.png}
   back: []
-hash: sha256:7c06baa063d34870c8e4d2c9f9415ea67372d8140a15cb1c556f7218de548915
+hash: sha256:80d1d7af57e09698488cdf2aa43dbc6375ab1050960441a75992b8552e182a86

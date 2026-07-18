@@ -884,6 +884,7 @@ markers:
   - {type: line-break, offset: 3827, content: '', id: KR4d0226_SBCK_023-9a05}
   - {type: indent, offset: 3827, content: 　　　, id: KR4d0226_SBCK_023-bkkind28}
   - {type: punctuation, offset: 3835, content: (, id: KR4d0226_SBCK_023-bkkpn1}
+  - {type: voice, offset: 3835, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 3839, content: /, id: KR4d0226_SBCK_023-bkkpn2}
   - {type: punctuation, offset: 3842, content: ), id: KR4d0226_SBCK_023-bkkpn3}
   - {type: 'kr:newline', offset: 3842, content: '
@@ -2679,6 +2680,7 @@ markers:
   - {type: line-break, offset: 11780, content: '', id: KR4d0226_SBCK_023-25b12}
   - {type: indent, offset: 11780, content: 　　　, id: KR4d0226_SBCK_023-bkkind76}
   - {type: punctuation, offset: 11791, content: (, id: KR4d0226_SBCK_023-bkkpn4}
+  - {type: voice, offset: 11791, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 11796, content: ), id: KR4d0226_SBCK_023-bkkpn5}
   - {type: 'kr:newline', offset: 11796, content: '
 
@@ -3861,6 +3863,7 @@ markers:
       ', id: KR4d0226_SBCK_023-bkkkrnewl934}
   - {type: line-break, offset: 16890, content: '', id: KR4d0226_SBCK_023-36b12}
   - {type: punctuation, offset: 16891, content: (, id: KR4d0226_SBCK_023-bkkpn6}
+  - {type: voice, offset: 16891, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 16902, content: ), id: KR4d0226_SBCK_023-bkkpn7}
   - {type: 'kr:newline', offset: 16902, content: '
 
@@ -3883,6 +3886,7 @@ markers:
   - {type: line-break, offset: 16918, content: '', id: KR4d0226_SBCK_023-37a03}
   - {type: indent, offset: 16918, content: 　, id: KR4d0226_SBCK_023-bkkind113}
   - {type: punctuation, offset: 16932, content: (, id: KR4d0226_SBCK_023-bkkpn8}
+  - {type: voice, offset: 16932, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 16934, content: /, id: KR4d0226_SBCK_023-bkkpn9}
   - {type: punctuation, offset: 16936, content: ), id: KR4d0226_SBCK_023-bkkpn10}
   - {type: 'kr:newline', offset: 16936, content: '
@@ -3901,4 +3905,4 @@ markers:
 
       ', id: KR4d0226_SBCK_023-bkkkrnewl943}
   back: []
-hash: sha256:db314ce0c1e9a2a635d7536dc75088bf2f0baf8a886fa1875db1b8e6d8ccde86
+hash: sha256:5346bc17e50a56730898bb6e366ddfdf6ec130a0a9cc95c84d6a23c95f9db20f

@@ -1859,6 +1859,7 @@ markers:
   - {type: line-break, offset: 5990, content: '', id: KR4d0226_SBCK_077-13a04}
   - {type: indent, offset: 5990, content: 　　　, id: KR4d0226_krp_077-bkkind16}
   - {type: punctuation, offset: 5998, content: (, id: KR4d0226_krp_077-bkkpn1}
+  - {type: voice, offset: 5998, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 5999, content: /, id: KR4d0226_krp_077-bkkpn2}
   - {type: variant, offset: 5999, length: 7, content: 毋忘一本作毋怠, WYG: ''}
   - {type: punctuation, offset: 6003, content: /, id: KR4d0226_krp_077-bkkpn3}
@@ -4048,4 +4049,4 @@ markers:
 
       ', id: KR4d0226_krp_077-bkkkrnewl695}
   back: []
-hash: sha256:36da77415e6949cbd451839cf4fec587b6322623b37b00078b2fec8ff0aa4586
+hash: sha256:be8cf95a24632f9b9a9439e5ab3ce21484cc4cbd6d07d9e54912c5231e5e96a1

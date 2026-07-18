@@ -14,6 +14,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR4d0226_SBCK_046-1a02}
   - {type: variant, offset: 14, length: 0, content: '', WYG: 宋朱子撰}
   - {type: punctuation, offset: 15, content: (, id: KR4d0226_krp_046-bkkpn1}
+  - {type: 'voice:problem', offset: 15, length: 0, id: KR4d0226_bkk_046-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 15}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4d0226_krp_046-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -21,6 +22,7 @@ markers:
       ', id: KR4d0226_krp_046-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0226_SBCK_046-1a03}
   - {type: indent, offset: 0, content: 　　　, id: KR4d0226_krp_046-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0226_bkk_046-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 2, length: 1, content: 濵, WYG: 濱}
   - {type: punctuation, offset: 4, content: (, id: KR4d0226_krp_046-bkkpn2}
   - {type: variant, offset: 4, length: 1, content: 㠯, WYG: 吕}
@@ -7050,4 +7052,4 @@ markers:
 
       ', id: KR4d0226_krp_046-bkkkrnewl999}
   back: []
-hash: sha256:ebd2f89cfdc3977d693600b709fa2a5c0141119493e76518f6104f52321089db
+hash: sha256:604bd773d5431a6b0140bafb8a6b7916297e6cbfeefb4026268a41ce0c4e08ba

@@ -1413,6 +1413,7 @@ markers:
   - {type: substitution, offset: 3827, original: 辤, replacement: 辭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17611}}
   - {type: punctuation, offset: 3835, content: (, id: KR4d0226_krp_023-bkkpn1}
   - {type: variant, offset: 3835, length: 7, content: 賤事疑當作􅕄事, WYG: ''}
+  - {type: voice, offset: 3835, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 3839, content: /, id: KR4d0226_krp_023-bkkpn2}
   - {type: punctuation, offset: 3842, content: ), id: KR4d0226_krp_023-bkkpn3}
   - {type: 'kr:newline', offset: 3842, content: '
@@ -4306,6 +4307,7 @@ markers:
   - {type: indent, offset: 11780, content: 　　　, id: KR4d0226_krp_023-bkkind76}
   - {type: punctuation, offset: 11791, content: (, id: KR4d0226_krp_023-bkkpn4}
   - {type: variant, offset: 11791, length: 5, content: 正月十四日, WYG: ''}
+  - {type: voice, offset: 11791, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 11796, content: ), id: KR4d0226_krp_023-bkkpn5}
   - {type: 'kr:newline', offset: 11796, content: '
 
@@ -6190,6 +6192,7 @@ markers:
   - {type: line-break, offset: 16890, content: '', id: KR4d0226_SBCK_023-36b12}
   - {type: punctuation, offset: 16891, content: (, id: KR4d0226_krp_023-bkkpn6}
   - {type: variant, offset: 16891, length: 25, content: 諸執政無然猶至吉也一節晦庵先生朱文公文集卷第二十三, WYG: ''}
+  - {type: voice, offset: 16891, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 16902, content: ), id: KR4d0226_krp_023-bkkpn7}
   - {type: 'kr:newline', offset: 16902, content: '
 
@@ -6213,6 +6216,7 @@ markers:
   - {type: line-break, offset: 16918, content: '', id: KR4d0226_SBCK_023-37a03}
   - {type: indent, offset: 16918, content: 　, id: KR4d0226_krp_023-bkkind113}
   - {type: punctuation, offset: 16932, content: (, id: KR4d0226_krp_023-bkkpn8}
+  - {type: voice, offset: 16932, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 16934, content: /, id: KR4d0226_krp_023-bkkpn9}
   - {type: punctuation, offset: 16936, content: ), id: KR4d0226_krp_023-bkkpn10}
   - {type: 'kr:newline', offset: 16936, content: '
@@ -6234,4 +6238,4 @@ markers:
 
       ', id: KR4d0226_krp_023-bkkkrnewl943}
   back: []
-hash: sha256:7db7207796e1c2815b8daeaa01c9b88135c611ae5a45600b4957ca936d94a6b8
+hash: sha256:21706cf972dc350fb34685d231fcae902fc9d2b4542727b41173d693eade7df9

@@ -12,6 +12,7 @@ markers:
       ', id: KR4d0226_krp_062-bkkkrnewl2}
   - {type: line-break, offset: 14, content: '', id: KR4d0226_SBCK_062-1a02}
   - {type: punctuation, offset: 15, content: (, id: KR4d0226_krp_062-bkkpn1}
+  - {type: 'voice:problem', offset: 15, length: 0, id: KR4d0226_bkk_062-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 15}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4d0226_krp_062-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -19,6 +20,7 @@ markers:
       ', id: KR4d0226_krp_062-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0226_SBCK_062-1a03}
   - {type: indent, offset: 0, content: 　　　, id: KR4d0226_krp_062-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0226_bkk_062-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 4, content: (, id: KR4d0226_krp_062-bkkpn2}
   - {type: punctuation, offset: 5, content: ), id: KR4d0226_krp_062-bkkpn3}
   - {type: 'kr:newline', offset: 5, content: '
@@ -7523,4 +7525,4 @@ markers:
   - {type: variant, offset: 19106, length: 0, content: '', WYG: 晦庵集卷六十二欽定四庫全書晦庵集卷六十三宋朱子撰書知舊門人問答答}
   - {type: page-break, offset: 19106, content: '', id: KR4d0226_WYG_063-1a, image: WYG1145/WYG1145-0180a.png}
   back: []
-hash: sha256:57fe023ff4d3b153d990338e204a5ceeedadb92a90a143349de022be57067648
+hash: sha256:413d1f46838e0cf23b988ad69e419af8cce7c88bdfbf65f1fa518973561694b0

@@ -12,6 +12,7 @@ markers:
       ', id: KR4d0226_krp_011-bkkkrnewl2}
   - {type: line-break, offset: 13, content: '', id: KR4d0226_SBCK_011-1a02}
   - {type: punctuation, offset: 15, content: (, id: KR4d0226_krp_011-bkkpn1}
+  - {type: 'voice:problem', offset: 15, length: 0, id: KR4d0226_bkk_011-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 15}
   - {type: variant, offset: 27, length: 2, content: 丙子, WYG: ''}
   - {type: variant, offset: 31, length: 2, content: 皇帝, WYG: ''}
   - {type: punctuation, offset: 34, content: /, id: KR4d0226_krp_011-bkkpn2}
@@ -23,6 +24,7 @@ markers:
       ', id: KR4d0226_krp_011-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0226_SBCK_011-1a03}
   - {type: indent, offset: 0, content: 　　　, id: KR4d0226_krp_011-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0226_bkk_011-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 6, content: '
 
       ', id: KR4d0226_krp_011-bkkkrnewl2}
@@ -7558,4 +7560,4 @@ markers:
 
       ', id: KR4d0226_krp_011-bkkkrnewl1125}
   back: []
-hash: sha256:9a463b18bc0924329644dc4fc786807661fc6ebd180759fdfdce13a062e96eb7
+hash: sha256:a8239318f8252a00e5b7ad955cfedb358efff7857bca1c7bc4a996cc3bf26061
